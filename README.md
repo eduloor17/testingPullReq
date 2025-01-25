@@ -1,4 +1,4 @@
-# Pull Request Instructions.
+# Pull Request Instructions for write your name in file.txt
 
 1. Fork the Repository of your friend!
 Click the **Fork** button in the top-right corner to create a copy of the repository in your GitHub account.
