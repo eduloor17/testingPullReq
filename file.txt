@@ -2,7 +2,7 @@ Check your first letter to modify it.
 
 Name 1 - R
 Name 2 - M
-Name 3 - G
+Name 3 - Gabriel
 Name 4 - A
 Name 5 - J
 Name 6 - Eduardo
