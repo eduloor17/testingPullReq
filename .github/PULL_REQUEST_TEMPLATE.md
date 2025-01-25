@@ -10,4 +10,5 @@ In the file you will have the first letter.
 - [ ] Name 4 - Athittaya
 - [ ] Name 5 - Jeremy
 - [ ] Name 6 - Eduardo
+- [ ] Name 7 - Pema
   
