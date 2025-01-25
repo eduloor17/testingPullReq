@@ -1,13 +1,11 @@
 ## Description
-Please Complete 10 commits
+This file is usufull for checking changes in list.txt 
+In the file you will have the first letter.
+
 ## Number of commits
-- [ ] Commit 1
-- [ ] Commit 2
-- [ ] Commit 3
-- [ ] Commit 4
-- [ ] Commit 5
-- [ ] Commit 6
-- [ ] Commit 7
-- [ ] Commit 8
-- [ ] Commit 9
-- [ ] Commit 10
+
+- [ ] Name 1 - Rodrigo
+- [ ] Name 2 - Mario
+- [ ] Name 3 - Gabriel
+- [ ] Name 4 - Athittaya
+- [ ] Name 5 - Jeremy
