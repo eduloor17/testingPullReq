@@ -9,11 +9,10 @@ Click the **Fork** button in the top-right corner to create a copy of the reposi
 
 ![create new file option](/images/link.png)
 
-**git clone https://github.com/<your-username>/testingPullReq.git**
+**git clone https://github.com/your-username/testingPullReq.git**
 Navigate to the repository folder:  **cd <repository_name>** or **cd testingPullReq**
 
-3. Create a New Branch (2 options)
-**git checkout -b fix-name-branch**
+3. Create a New Branch (2 options)  ---> **git checkout -b fix-name-branch**
 
 or
 
