@@ -6,25 +6,3 @@ Monitoring and Logging: Tools like Prometheus, Grafana, and ELK Stack.
 Prometheus and Grafana for monitoring.
 Monitoring application performance using modern tools.
 Jenkins or GitHub Actions for CI/CD.
-Continuous Delivery (CD): Automating the deployment pipeline.
-Aims to teach the integration of development and operations for faster and more reliable software delivery.
-Understanding the DevOps culture and its importance in modern software development.
-Basics of Kubernetes for container orchestration.
-Writing YAML files for pipeline configurations.
-Introduction to containerization using Docker.
-Monitoring and Logging: Tools like Prometheus, Grafana, and ELK Stack.
-Prometheus and Grafana for monitoring.
-Monitoring application performance using modern tools.
-Jenkins or GitHub Actions for CI/CD.
-Continuous Delivery (CD): Automating the deployment pipeline.
-Aims to teach the integration of development and operations for faster and more reliable software delivery.
-Understanding the DevOps culture and its importance in modern software development.
-Basics of Kubernetes for container orchestration.
-Writing YAML files for pipeline configurations.
-Introduction to containerization using Docker.
-Monitoring and Logging: Tools like Prometheus, Grafana, and ELK Stack.
-Prometheus and Grafana for monitoring.
-Monitoring application performance using modern tools.
-Jenkins or GitHub Actions for CI/CD.
-Continuous Delivery (CD): Automating the deployment pipeline.
-Aims to teach the integration of development and operations for faster and more reliable software delivery.
