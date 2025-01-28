@@ -23,7 +23,7 @@ jobs:
         run: |
           
           echo "📄 Showing content of all student files:"
-          for file in *_gb.txt *_devops.txt *_sdlc.txt; do
+          for file in *_gb.txt *_devops.txt; do
             echo "📄 Showing content of $file:"
             cat "$file"
             
