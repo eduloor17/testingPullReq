@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: COMP2156_Group35_Assignment
+name: Testing Pulling request
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 
