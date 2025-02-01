@@ -1,7 +1,7 @@
 Check your first letter to modify it.
 
 Name 1 - R
-Name 2 - M
+Name 2 - Mario
 Name 3 - Gabriel
 Name 4 - A
 Name 5 - J
